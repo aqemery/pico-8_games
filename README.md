@@ -1,3 +1,3 @@
 # pico-8_games
 
-week 1: BugBugBoss
+1. BugBugBoss - https://www.lexaloffle.com/bbs/?pid=50558
